@@ -1,0 +1,7 @@
+2.5 
+jumps in loops:
+	       jumps in loops = To contronl the flow of loops in meeting some specified conditoin. 
+	       Continue statement:
+				   It is used to skip to the next iteratio of the loop 
+	       Break statement:
+				It is used to terminate the loop

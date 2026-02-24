@@ -1,0 +1,6 @@
+2.4
+FOR LOOP IN C++
+
+for(initialization;condition;update){
+    //body
+}

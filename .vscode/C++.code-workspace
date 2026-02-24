@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "C++",
+			"path": "c++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"initializer_list": "cpp"
+		},
+		"C_Cpp.errorSquiggles": "disabled",
+		"workbench.editor.autoLockGroups": {
+			"default": true
+		},
+		"workbench.settings.editor": "ui",
+		"files.autoSave": "afterDelay"
+	}
+}

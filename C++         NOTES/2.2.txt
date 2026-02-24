@@ -1,0 +1,6 @@
+2.2
+
+'<<' is incertion operator 
+'>>' extraction oprater
+
+"cin>>(name of var)" is used to get input

@@ -1,0 +1,20 @@
+2.1
+   DATA TYPES:
+	      Primitive;
+			integer
+			float
+			caracter
+			boolean
+	      Derived;
+		      Function
+		      Array 
+		      Pointer
+                      Refrence
+              User-defined;
+	          	   Class
+	          	   Structure
+	          	   Union
+	          	   Enum
+	          	   			   
+		      
+
